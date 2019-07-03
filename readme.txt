@@ -1,1 +1,2 @@
-Dziêkujemy za pobranie naszej paczki modów!
+Ta paczkÄ… modÃ³w juÅ¼ jest nieaktualna
+Nowa paczka: https://github.com/DBMPoland/DBM-Poland-Mods-v2
